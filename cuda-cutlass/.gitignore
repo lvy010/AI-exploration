@@ -1,0 +1,69 @@
+# CUTLASS库文件夹（本地克隆）
+cutlass/
+
+# 可执行文件
+gemm_example
+simple_gemm_example
+cpu_gemm_example
+*.exe
+*.out
+
+# 构建目录
+build/
+cmake-build-*/
+
+# 编译生成的文件
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# CUDA编译生成的文件
+*.cubin
+*.ptx
+*.fatbin
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 数据文件
+*.dat
+*.bin
+*.txt
+!README.md
+!CMakeLists.txt
+!Makefile
+!*.cpp
+!*.h
+!*.hpp
+
+# 备份文件
+*.bak
+*.backup
+
+# 测试输出
+test_output/
+results/
+
+# 性能测试数据
+benchmark_results/
+performance_data/ 
