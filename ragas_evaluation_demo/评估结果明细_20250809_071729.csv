@@ -1,0 +1,3 @@
+user_input,response,faithfulness,answer_relevancy
+法国的首都是哪里？,法国的首都是巴黎。,1.0,1.0
+泰坦尼克号何时沉没？,泰坦尼克号于1912年4月15日沉没。,0.95,0.9
