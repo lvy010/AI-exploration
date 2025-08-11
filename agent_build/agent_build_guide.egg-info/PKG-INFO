@@ -1,3 +1,28 @@
+Metadata-Version: 2.1
+Name: agent-build-guide
+Version: 1.0.0
+Summary: OpenAI智能体构建实用指南学习项目
+Home-page: https://github.com/ai-exploration/agent-build-guide
+Author: AI Exploration Team
+Author-email: team@ai-exploration.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: docs
+
 # 智能体构建实用指南
 
 本文件夹包含了基于OpenAI智能体构建实用指南的完整学习材料和代码示例。
@@ -94,3 +119,5 @@ agent_build/
 - [OpenAI API文档](https://platform.openai.com/docs)
 - [智能体SDK文档](https://platform.openai.com/docs/agents)
 - [安全最佳实践](https://platform.openai.com/docs/guides/safety-best-practices)
+
+

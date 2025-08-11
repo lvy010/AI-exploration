@@ -1,0 +1,5 @@
+[console_scripts]
+agent-guardrails = examples.guardrails.churn_detection:main
+agent-translation = examples.multi_agent.translation_manager:main
+agent-weather = examples.single_agent.weather_agent:main
+
