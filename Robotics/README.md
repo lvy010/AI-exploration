@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python robot_motion_simulation.py
 ```
 
-### 代码示例
+### code
 
 ```python
 from robot_motion_simulation import State, update_motion_model
